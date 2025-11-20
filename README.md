@@ -18,7 +18,7 @@ How to Run the Programs
 
 Make sure Python is installed on your system.  
 To run each program, use the following commands in your terminal:
-python Program-1.py
-python Program-2.py
-python Program-3.py
-python Program-4.py
+python Program1.py,
+python Program2.py,
+python Program3.py,
+python Program4.py,
